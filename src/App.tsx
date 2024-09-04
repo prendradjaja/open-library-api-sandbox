@@ -49,6 +49,11 @@ function App() {
       <a href="https://openlibrary.org/dev/docs/api/covers">https://openlibrary.org/dev/docs/api/covers</a>
       </p>
       <p>
+      This page's source code:
+      <br/>
+      <a href="https://github.com/prendradjaja/open-library-api-sandbox">https://github.com/prendradjaja/open-library-api-sandbox</a>
+      </p>
+      <p>
       Type something below and press enter to search (examples: "foundation asimov" "pride and prejudice" "william shakespeare")
       </p>
       <input autoFocus onKeyDown={handleKeyDown} defaultValue="foundation asimov" />
