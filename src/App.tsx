@@ -66,7 +66,8 @@ function App() {
           Showing {results.docs.length} results of {results.num_found}
           </strong>
           </p>
-          <p>See <code>results</code> in the console for more details</p>
+          <p>By default, results are sorted by relevance</p>
+          <p>See also <code>results</code> in the console</p>
         </>
       }
       <table><tbody>
